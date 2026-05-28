@@ -83,12 +83,19 @@ INDEX.html:
 ```
 ## OUTPUT
 CLIENT(download):
+
 <img width="892" height="507" alt="image" src="https://github.com/user-attachments/assets/9077d2d3-1779-4911-b1d3-50c6823887e5" />
+
 SERVER(download):
+
 <img width="849" height="270" alt="image" src="https://github.com/user-attachments/assets/9d3842d8-2b82-4695-918b-747efaef6d7c" />
+
 client(upload):
+
 <img width="818" height="294" alt="image" src="https://github.com/user-attachments/assets/d2313124-1a80-4826-94e9-3b5fecd2420a" />
+
 SERVER(upload):
+
 <img width="849" height="270" alt="image" src="https://github.com/user-attachments/assets/a3ae7380-7609-4e22-ba23-d20114527bc6" />
 <img width="1377" height="464" alt="WhatsApp Image 2026-05-28 at 10 18 35 PM" src="https://github.com/user-attachments/assets/a608d064-0c52-4801-8a6b-2c4d75d1aab4" />
 
